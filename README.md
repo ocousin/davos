@@ -59,7 +59,7 @@ $ make project
 
 6. Run synthesis
 ```
-$ make synthesize
+$ make synthesis
 ```
 
 7. Run implementation
